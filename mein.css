@@ -1,28 +1,23 @@
+body {
+  font-family: "fira sans";
+  font-size: 1rem;
+  line-height: 1.5;
+  background-color: hsl(86 34% 75%); /* greenish */
+}
+
 header {
-   background-color:hsl(4.24,4.34%,4.75%);
+   background-color: hsl(186 20% 75%);
    max-width: 4rem;
    color: pink;
-   }
-
-body {
-  background-color:hsl(0.24,0.34%,0.75%);
-} /* greenish */
+}
 
 h1 {
-  font-family: fira sana;
   color: black;
   text-align: center;
 }
 
 h2 {
-  font-family: fira sana;
   color: brown;
   text-align: center;
   font-size: 5rem;
 }
-
-p {
-  font-family: fira sans;
-  font-size: 1rem;
-}
-
