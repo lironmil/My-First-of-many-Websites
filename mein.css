@@ -5,7 +5,7 @@ body {
   background-color: hsl(86 34% 75%); /* greenish */
 }
 
-header {
+header > p {
    background-color: hsl(186 20% 75%);
    max-width: 4rem;
    color: pink;
